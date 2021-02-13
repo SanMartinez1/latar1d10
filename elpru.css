@@ -1,0 +1,104 @@
+body{
+     background:linear-gradient(to bottom, #E8EB28 20%, #EB6028 80%) fixed no-repeat;
+     background-size: cover;
+}
+.p1{
+	position: absolute;
+	top: 8%;
+	left: 17.5%;
+	font-size: 35px;
+}
+.nume1{
+position: absolute;
+    top: 22%;
+	left: 22%; 
+	width: 115px;
+	height: 40px;
+	border-radius: 10px;
+}
+.p2{
+	position: absolute;
+	top: 35%;
+	left: 17.5%;
+	font-size: 35px;
+}
+.nume2{
+position: absolute;
+    top: 49%;
+	left: 22%; 
+	width: 115px;
+	height: 40px;
+	border-radius: 10px;
+}
+.resusuma{
+position: absolute;
+    top: 22%;
+	left: 71.9%; 
+	width: 133px;
+	height: 40px;
+	border-radius: 10px;
+	 }
+.myButton {
+	position: absolute;
+	box-shadow: -1px 1px 33px 16px #c77171;
+	top: 80%;
+	left: 37%;
+	background:linear-gradient(to bottom, #d47da7 5%, #b8474d 100%);
+	background-color:#d47da7;
+	border-radius:13px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:20px;
+	padding:16px 34px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #abbad9;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #92EC4C 5%, #2D7329 100%);
+	background-color:#b8474d;
+}
+
+.r1{
+	position: absolute;
+	top: 8%;
+	left: 71%;
+	font-size: 35px;	
+}
+.b1{
+	position: absolute;
+	top: 35%;
+	left: 67.5%;
+	font-size: 35px;
+}
+.busqueda{
+position: absolute;
+    top: 49%;
+	left: 71.5%; 
+	width: 147px;
+	height: 40px;
+	border-radius: 10px;
+}
+.busq {
+	position: absolute;
+	top: 80%;
+	left: 57%;
+	box-shadow: -1px 1px 33px 16px #c77171;
+	background:linear-gradient(to bottom, #d47da7 5%, #b8474d 100%);
+	background-color:#d47da7;
+	border-radius:13px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:20px;
+	padding:16px 34px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #abbad9;
+}
+.busq:hover {
+	background:linear-gradient(to bottom, #92EC4C 5%, #2D7329 100%);
+	background-color:#b8474d;
+ }
+
